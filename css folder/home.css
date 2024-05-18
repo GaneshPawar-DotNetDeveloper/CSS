@@ -1,0 +1,27 @@
+﻿/*body {
+    background-color:aqua;
+}*/
+h1{
+    color:coral;
+
+}
+pre{
+    color:chocolate;
+}
+div{
+    color:darkmagenta;
+}
+input{
+    color:darkgoldenrod;
+}
+text{
+    color:red;
+}
+ul li{
+    display:inline;
+    border-bottom:1px solid black;
+    padding:20px;
+}
+[placeholder]{
+    color:goldenrod;
+}
